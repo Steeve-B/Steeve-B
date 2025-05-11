@@ -1,25 +1,25 @@
 <h1 align="center">👋 Salut, Je suis Steeve</h1>
 
-<div align="center">
+<p align="center">
   <h3>Bonjour ! Je m'appelle Steeve, développeur Web et Mobile FullStack spécialisé en React, React Native et Node.js, avec près de 3 ans d'expérience.</h3>
-</div>
+</p>
 
-<p>Que vous ayez besoin d’une Landing Page, d’un MVP ou une refonte, je suis là pour vous accompagner à chaque étape, de la création de la maquette à la mise en ligne...</p>
+<p align="center">
+  Que vous ayez besoin d’une Landing Page, d’un MVP ou une refonte, je suis là pour vous accompagner à chaque étape, de la création de la maquette à la mise en ligne...
+</p>
 
-<h3>Mes services</h3>
+---
 
-<ul>
-  <li>Développement d’applications web & mobiles</li>
-  <li>Intégration d’IA et RAG (chatbots, systèmes d’assistance intelligente, et plus encore)</li>
-  <li>Développement Full-Stack et maintenance</li>
-  <li>Méthode Agile (Scrum/Kanban)</li>
-</ul>
+## 🚀 Mes Services
+
+- Développement d’applications web & mobiles
+- Intégration d’IA et RAG (chatbots, systèmes d’assistance intelligente, et plus encore)
+- Développement Full-Stack et maintenance
+- Méthode Agile (Scrum/Kanban)
 
 ---
 
 ## 🛠️ Technologies & Outils
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,express,nestjs,mongodb,postgres,prisma" />
@@ -28,23 +28,21 @@
 
 ---
 
-## 🛠️ Mes derniers projets
+## 🏗️ Mes Derniers Projets
 
-<br>
+### 1. Titan Déménagement 📦
 
-<h2>Titan Déménagement 📦</h2>
-<p>
 Plateforme web interactive dédiée au secteur du déménagement, développée avec <strong>Next.js</strong>, <strong>Sass</strong>, et <strong>PostgreSQL</strong>. Initialement conçue pour offrir des devis sur mesure avec des tarifs dynamiques, des réservations en ligne, et un espace client, elle a su évoluer pour devenir un générateur de leads face à une concurrence impitoyable.
-</p>
-<p>ℹ️ <em>Repo privé pour des raisons de confidentialité</em></p>
 
-<br>
+ℹ️ <em>Repo privé pour des raisons de confidentialité</em>
 
-<h2>TrackMyHome 🚧</h2>
-<p>
+---
+
+### 2. TrackMyHome 🚧
+
 TrackMyHome est une plateforme mobile permettant aux constructeurs de partager en temps réel l'avancement des travaux de construction avec leurs clients. L'application a été développée en <strong>React Native</strong> avec le framework <strong>Expo</strong>.
-</p>
-<p>ℹ️ <em>Repo privé pour des raisons de confidentialité</em></p>
+
+ℹ️ <em>Repo privé pour des raisons de confidentialité</em>
 
 ---
 
