@@ -32,19 +32,19 @@
 
 <br>
 
-<h3 align="center">Titan Déménagement</h3>
+<h2>Titan Déménagement 📦</h2>
 <p>
 Plateforme web interactive dédiée au secteur du déménagement, développée avec <strong>Next.js</strong>, <strong>Sass</strong>, et <strong>PostgreSQL</strong>. Initialement conçue pour offrir des devis sur mesure avec des tarifs dynamiques, des réservations en ligne, et un espace client, elle a su évoluer pour devenir un générateur de leads face à une concurrence impitoyable.
 </p>
-<p><em>Repo privé pour des raisons de confidentialité</em></p>
+<p>ℹ️ <em>Repo privé pour des raisons de confidentialité</em></p>
 
 <br>
 
-<h3 align="center">TrackMyHome</h3>
+<h2>TrackMyHome 🚧</h2>
 <p>
 TrackMyHome est une plateforme mobile permettant aux constructeurs de partager en temps réel l'avancement des travaux de construction avec leurs clients. L'application a été développée en <strong>React Native</strong> avec le framework <strong>Expo</strong>.
 </p>
-<p><em>Repo privé pour des raisons de confidentialité</em></p>
+<p>ℹ️ <em>Repo privé pour des raisons de confidentialité</em></p>
 
 ---
 
