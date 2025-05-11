@@ -1,10 +1,8 @@
 <h1 align="center">👋 Salut, Je suis Steeve</h1>
 
-<p align="center">
-  <h3>Bonjour ! Je m'appelle Steeve, développeur Web et Mobile FullStack spécialisé en React, React Native et Node.js, avec près de 3 ans d'expérience.</h3>
-</p>
+<h3>Bonjour ! Je m'appelle Steeve, développeur Web et Mobile FullStack spécialisé en React, React Native et Node.js, avec près de 3 ans d'expérience.</h3>
 
-<p align="center">
+<p>
   Que vous ayez besoin d’une Landing Page, d’un MVP ou une refonte, je suis là pour vous accompagner à chaque étape, de la création de la maquette à la mise en ligne...
 </p>
 
