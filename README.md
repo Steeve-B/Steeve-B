@@ -1,10 +1,10 @@
-<h1 align="center">Salut 👋 ! Je suis Steeve</h1>
+<h1 align="center">👋 Salut, Je suis Steeve</h1>
 
 <div align="center">
-  <h3>Bonjour ! Je m'appelle Steeve, développeur Web et Mobile Full-Stack spécialisé en React, React Native et Node.js, avec près de 3 ans d'expérience.</h3>
+  <h3>Bonjour ! Je m'appelle Steeve, développeur Web et Mobile FullStack spécialisé en React, React Native et Node.js, avec près de 3 ans d'expérience.</h3>
 </div>
 
-<p>Que vous ayez besoin d’une Landing Page, d’un MVP ou une refonte, je suis là pour vous accompagner à chaque étape, de l’idée initiale jusqu’au lancement.</p>
+<p>Que vous ayez besoin d’une Landing Page, d’un MVP ou une refonte, je suis là pour vous accompagner à chaque étape, de la création de la maquette à la mise en ligne...</p>
 
 <h3>Mes services</h3>
 
@@ -28,7 +28,27 @@
 
 ---
 
-### 📫 Me contacter :
+## 🛠️ Mes derniers projets
+
+<br>
+
+<h3 align="center">Titan Déménagement</h3>
+<p>
+Plateforme web interactive dédiée au secteur du déménagement, développée avec <strong>Next.js</strong>, <strong>Sass</strong>, et <strong>PostgreSQL</strong>. Initialement conçue pour offrir des devis sur mesure avec des tarifs dynamiques, des réservations en ligne, et un espace client, elle a su évoluer pour devenir un générateur de leads face à une concurrence impitoyable.
+</p>
+<p><em>Repo privé pour des raisons de confidentialité</em></p>
+
+<br>
+
+<h3 align="center">TrackMyHome</h3>
+<p>
+TrackMyHome est une plateforme mobile permettant aux constructeurs de partager en temps réel l'avancement des travaux de construction avec leurs clients. L'application a été développée en <strong>React Native</strong> avec le framework <strong>Expo</strong>.
+</p>
+<p><em>Repo privé pour des raisons de confidentialité</em></p>
+
+---
+
+## 📫 Contact
 
 <p>
   <a href="mailto:bonenfantstee@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
