@@ -2,8 +2,9 @@
 
 <div align="center">
   <h3>Bonjour ! Je m'appelle Steeve, développeur Web et Mobile Full-Stack spécialisé en React, React Native et Node.js, avec près de 3 ans d'expérience.</h3>
-  <p>Que vous ayez besoin d’une Landing Page, d’un MVP ou une refonte, je suis là pour vous accompagner à chaque étape, de l’idée initiale jusqu’au lancement.</p>
 </div>
+
+<p>Que vous ayez besoin d’une Landing Page, d’un MVP ou une refonte, je suis là pour vous accompagner à chaque étape, de l’idée initiale jusqu’au lancement.</p>
 
 <h3>Mes services</h3>
 
@@ -24,12 +25,6 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,express,nestjs,mongodb,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,redux,git,postman,figma" />
 </p>
-
----
-
-## 📊 Statistiques GitHub
-
-![Steeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steeve-B&show_icons=true&count_private=true)
 
 ---
 
