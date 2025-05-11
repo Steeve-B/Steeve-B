@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Steeve</h1>
+<h1 align="center">Salut 👋 ! Je suis Steeve</h1>
 
 <div align="center">
   <h3>Bonjour ! Je m'appelle Steeve, développeur Web et Mobile Full-Stack spécialisé en React, React Native et Node.js, avec près de 3 ans d'expérience.</h3>
