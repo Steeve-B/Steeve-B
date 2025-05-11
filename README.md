@@ -29,14 +29,13 @@
 
 ## 📊 Statistiques GitHub
 
-![Steeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steeve-B&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steeve-B&layout=compact&theme=radical)](https://github.com/Steeve-B)
+![Steeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steeve-B&show_icons=true&count_private=true)
 
 ---
 
 ### 📫 Me contacter :
 
-<p align="center">
+<p>
   <a href="mailto:bonenfantstee@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/steeve-b-%F0%9F%92%BB%F0%9F%93%B1-683531300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
