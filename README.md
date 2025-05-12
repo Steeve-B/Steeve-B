@@ -46,7 +46,8 @@ TrackMyHome est une plateforme mobile permettant aux constructeurs de partager e
 
 ## 🌐 Mon Portfolio
 
-Découvrez mes réalisations, mon style et des exemples de projets sur lesquels j’ai travaillé.  
+Découvrez mes réalisations, mon style et des exemples de projets sur lesquels j’ai travaillé.
+
 📂 **[Accéder à mon Portfolio](https://www.steeve-b.fr)**
 
 ---
