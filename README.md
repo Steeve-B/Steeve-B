@@ -44,12 +44,18 @@ TrackMyHome est une plateforme mobile permettant aux constructeurs de partager e
 
 ---
 
+## 🌐 Mon Portfolio
+
+Découvrez mes réalisations, mon style et des exemples de projets sur lesquels j’ai travaillé.  
+📂 **[Accéder à mon Portfolio](https://www.steeve-b.fr)**
+
+---
+
 ## 📫 Contact
 
 <p>
   <a href="mailto:bonenfantstee@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/steeve-b-%F0%9F%92%BB%F0%9F%93%B1-683531300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.steeve-b.fr" target="blank"><p>Mon Portfolio</p></a>
 </p>
 
 ---
